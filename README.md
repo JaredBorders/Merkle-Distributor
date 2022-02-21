@@ -1,6 +1,7 @@
-# Basic Sample Hardhat Project
+# Merkle Distributor
+Updated https://github.com/Uniswap/merkle-distributor
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+### Hardhat Project
 
 Try running some of the following tasks:
 
